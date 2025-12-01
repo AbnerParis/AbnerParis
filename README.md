@@ -27,11 +27,6 @@ My unique edge lies in bridging the gap between robust software engineering prin
 
 ---
 
-### 📊 GitHub Stats
-![Abner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbnerParis&show_icons=true&theme=radical)
-
----
-
 ### 📫 Let's Connect
 * **LinkedIn:** [(https://www.linkedin.com/in/abner-paris-02a41215b/)]
 * **Portfolio:** [coming soon]
